@@ -1,0 +1,99 @@
+[
+  {
+    "uniqueId": "7d45ba00-e311-4929-9622-91651bcbf86c",
+    "created": "2023-08-06T12:05:30Z",
+    "modified": "2023-08-06T12:05:30Z",
+    "title": "Long Division: A Novel",
+    "authorList": [
+      {
+        "orderName": "Laymon",
+        "preName": "Kiese"
+      }
+    ],
+    "formats": {
+      "KINDLE": {
+        "format": "KINDLE",
+        "isbnOrAsin": "B08LDZ7HRP",
+        "releaseDate": "2021-06-01",
+        "prices": [
+          {
+            "shop": "AMAZON",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 6.99
+          }
+        ]
+      },
+      "PAPERBACK": {
+        "format": "PAPERBACK",
+        "isbnOrAsin": "9781982174828",
+        "releaseDate": "2021-07-22",
+        "prices": [
+          {
+            "shop": "AMAZON",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 6.08
+          },
+          {
+            "shop": "WATERSTONES",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 9.99
+          }
+        ]
+      }
+    },
+    "comment": "Graun July 23, sounded readable and interesting"
+  },
+  {
+    "uniqueId": "7b4546d0-348d-4a13-bb09-64b7ef68fcda",
+    "created": "2023-08-06T12:05:30Z",
+    "modified": "2023-08-06T12:05:30Z",
+    "title": "Lost on Me",
+    "authorList": [
+      {
+        "orderName": "Raimo",
+        "preName": "Veronica"
+      },
+      {
+        "orderName": "Janeczko",
+        "preName": "Leah"
+      }
+    ],
+    "formats": {
+      "KINDLE": {
+        "format": "KINDLE",
+        "isbnOrAsin": "B0BQ6M7ZMJ",
+        "releaseDate": "2023-06-29",
+        "prices": [
+          {
+            "shop": "AMAZON",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 9.99
+          }
+        ]
+      },
+      "HARDBACK": {
+        "format": "HARDBACK",
+        "isbnOrAsin": "9780349017662",
+        "releaseDate": "2023-08-03",
+        "prices": [
+          {
+            "shop": "AMAZON",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 13.2
+          },
+          {
+            "shop": "WATERSTONES",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 16.99
+          },
+          {
+            "shop": "HIVE",
+            "time": "2023-08-05T12:05:30Z",
+            "price": 13.85
+          }
+        ]
+      }
+    },
+    "comment": null
+  }
+]
